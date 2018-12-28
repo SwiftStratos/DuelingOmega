@@ -29,7 +29,6 @@ bannedCards: {
 	79571449: 0, //Graceful Charity
 	18144506: 0, //Harpie's Feather Duster
         18144507: 0, //Harpie's Feather Duster
-        24094258: 0, //Heavymetalfoes Electrumite
         19613556: 0, //Heavy Storm
         35059553: 0, //Kaiser Colosseum
         39064822: 0, //Knightmare Goblin
@@ -121,6 +120,7 @@ bannedCards: {
         39512984: 1, //Gem-Knight Master Diamond
         20758643: 1, //Graff, Malebranche of the Burning Abyss
         75732622: 1, //Grinder Golem
+        24094258: 1, //Heavymetalfoes Electrumite
 	18239909: 1, //Ignister Prominence, the Blasting Dracoslayer
 	61740673: 1, //Imperial Order
 	99177923: 1, //Infernity Archfiend
